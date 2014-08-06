@@ -1,0 +1,6 @@
+*.pyc
+*.orig
+*.bak
+*.report
+*.egg-info
+*.DS_Store
